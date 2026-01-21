@@ -1,5 +1,13 @@
 package main
 
 func main() {
-	Struct()
+	// Struct()
+
+	// Methods()
+
+	// Map()
+
+	Goroutine()
+
+	Channel()
 }
